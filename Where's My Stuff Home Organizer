@@ -1,5 +1,11 @@
-Ever moved house and wondered where you kept all your stuff and where some of those items are 2 years later? You labeled your many boxes but there is so much in each one and so many boxes that you cannot remember where it all is? Welcome to the "Where's My Stuff Home Organizer". 
-With this handy app you can enter the items you wish to store in each box, categorize the items and even take a photo and it will create a qrcode and number and print a label for each box on your versatile Brother label printer. We used the QL110NWB for testing but this should work with any of the existing Brother label printers. 
+Ever moved house and wondered where you kept all your stuff and where some of those items are 2 years later? You labeled your many boxes but there is so much in 
+each one and so many boxes that you cannot remember where it all is? Welcome to the "Where's My Stuff Home Organizer". 
+With this handy app you can enter the items you wish to store in each box, categorize the items and even take a photo and it will create a qrcode and number and
+print a label for each box on your versatile Brother label printer. We used the QL110NWB for testing but this should work with any of the existing Brother label printers. 
 Once you have printed labels for each box with a number and QR code, simply stick them on the appropriate boxes.
 When you are ready to unpack, you can scan any of the qr codes off the boxes and it will tell you what is in it and even show you a picture of the contents. 
-If you first want to find out which box has what, you can search via description or category to find all boxes with books or where you kept the dishes or framed photo of Michael Jordan and it will give you the number of the box(s) 
+If you first want to find out which box has what, you can search via description or category to find all boxes with books or where you kept the dishes or framed 
+photo of Michael Jordan and it will give you the number of the box(s) 
+
+Here is the video of the app ( written in Flutter and running on Android): https://vimeo.com/manage/videos/559233018
+
